@@ -2,9 +2,9 @@
 
 Requisitos:
 
--Autenticação com níveis de acesso:
-  -> Gerente
+1. Autenticação com níveis de acesso:
+  - Gerente
   
-  -> Vendedor
+  - Vendedor
 
-  -> Caixa
+  - Caixa
